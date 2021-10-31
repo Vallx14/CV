@@ -18,3 +18,10 @@ body{
      letter-spacing: 2px;
      font-weight: normal;
  }
+
+h3 {
+    text-align: center;
+    color: white;
+    letter-spacing: 2px;
+    font-weight: normal;
+}
