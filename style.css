@@ -9,5 +9,7 @@ body{
      text-align: center;
      color: white;
      letter-spacing: 2px;
+     border: solid;
+     border-color: white;
  }
 
