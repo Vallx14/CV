@@ -2,7 +2,6 @@ body{
     width: 100vw;
     height: 100vh;
     background-image: url("https://wallpapercave.com/wp/wp2012415.png");
-    background-color : black;
 }
 
  h1 {
@@ -24,7 +23,6 @@ h3 {
     color: white;
     letter-spacing: 2px;
     font-weight: normal;
-    border: solid;
     border-color: white;
     border-width: 2px;
 }
