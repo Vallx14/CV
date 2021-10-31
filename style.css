@@ -9,7 +9,12 @@ body{
      text-align: center;
      color: white;
      letter-spacing: 2px;
-     border: solid;
-     border-color: white;
+     font-weight : normal;
  }
 
+ h2 {
+     text-align: center;
+     color: white;
+     letter-spacing: 2px;
+     font-weight: normal;
+ }
