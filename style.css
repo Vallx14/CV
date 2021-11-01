@@ -25,5 +25,5 @@ h3 {
     font-weight: normal;
     border-style: solid;
     border-color: white;
-    border-width: 2px;
+    border-width: 2px 2px 2px 2px;
 }
