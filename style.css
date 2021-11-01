@@ -23,7 +23,6 @@ h3 {
     color: white;
     letter-spacing: 2px;
     font-weight: normal;
-    border: solid;
+    border: thin;
     border-color: white;
-    border-width: 2px;
 }
